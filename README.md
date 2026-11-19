@@ -17,4 +17,4 @@ You can open the `.ipynb` file in Jupyter Notebook, Google Colab, or Kaggle to r
 Model weights and checkpoints are hosted on Hugging Face: [logicwahid/Kotha-S1](https://huggingface.co/logicwahid/Kotha-S1)
 
 ## License
-This project is licensed under the Apache 2.0 License. See the LICENSE file for details.
+This project is licensed under MIT License. See the LICENSE file for details.
